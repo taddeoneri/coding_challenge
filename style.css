@@ -1,0 +1,118 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+
+}
+
+.background{
+    height: 100vh;
+    background-image: url("background.jpg");
+    background-size: cover;
+    padding-top: 25px;
+}
+
+.container{
+    width: 970px;
+    background-color: rgba(0,0,0,0.5);
+    border-radius: 15px;
+    margin: auto;
+    padding: 80px;
+}
+
+.logo-container{
+    width: 200px;
+    margin: auto;
+}
+
+.logo-container img{
+    max-width: 100%;
+}
+
+.titolo-container{
+    width: 670px;
+    margin: 10px auto;
+}
+
+.titolo-container h2{
+    color: #00FF00;
+    font-size: 22px;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+}
+
+.opzioni-container{
+    width: 800px;
+    background-color: #00FF00;
+    margin: 10px auto;
+    padding: 6px 286px;
+}
+
+.prenota1{
+    text-align: center;
+    width: 45px;
+    font-size: 10px;
+}
+
+.prenota2{
+    text-align: center;
+    width: 110px;
+    font-size: 10px;
+}
+
+.prenota3{
+    text-align: center;
+    width: 65px;
+    font-size: 10px;
+}
+
+.body-container1{
+    width: 800px;
+    margin: 30px auto;
+}
+
+.body-container2{
+    width: 800px;
+    margin: 30px auto;
+}
+
+.body-container3{
+    width: 800px;
+    margin: 30px auto;
+}
+
+.nome{
+    font-size: 19px;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+}
+
+.via{
+    font-size: 12px;
+    padding-top: 1px;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+}
+
+.stato-carica1{
+    background-color: #ffa64d;
+    width: 280px;
+    height: 20px;
+    padding-top: 5px;
+    border-radius: 5px;
+}
+
+.stato-carica2{
+    background-color: #00b300;
+    width: 470px;
+    height: 20px;
+    padding-top: 5px;
+    border-radius: 5px;
+}
+
+.stato-carica3{
+    background-color: #cc0000;
+    width: 115px;
+    height: 20px;
+    padding-top: 5px;
+    border-radius: 5px;
+}
